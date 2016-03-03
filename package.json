@@ -1,0 +1,26 @@
+{
+  "name": "ask_the_audience",
+  "version": "1.0.0",
+  "description": "pulling app",
+  "main": "server.js",
+  "dependencies": {
+    "lodash": "^4.6.0",
+    "express": "^4.13.4",
+    "socket.io": "^1.4.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tjkomor/ask_the_audience.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tjkomor/ask_the_audience/issues"
+  },
+  "homepage": "https://github.com/tjkomor/ask_the_audience#readme"
+}
